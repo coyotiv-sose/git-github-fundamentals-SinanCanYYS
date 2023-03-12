@@ -3,6 +3,7 @@
 ## deneme Author 12.03 10:00
 
 Sinan 12.03 10:00
+YYS 12.03 10:35
 
 ## 🤓 Course overview and learning outcomes
 
